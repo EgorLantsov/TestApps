@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8982b7d2-253b-4ffd-96f1-fd6f1c37db58" name="Default Changelist" comment="create the pyramid test task">
+      <change afterPath="$PROJECT_DIR$/../Applet/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/Applet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/resources/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/resources/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/src/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Applet/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/AudioTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/resources/22.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/resources/click.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/src/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/src/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AudioTest/src/SoundEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/artifacts/BurpyBird_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/BurpyBird.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/resources/Bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/resources/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/resources/belch.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/resources/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/resources/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/BackGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/GameOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/KeyInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/Obstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurpyBird/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/Font Generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Font Generator/src/FontCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/entity/linkformatted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/entity/littlegirl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/entity/sprite_Oxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/font/ZeldaFont.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/font/font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/tile/dungeon_tiles_formatted_v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/tile/map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/tile/mymap.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/res/tile/mymap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/entity/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/graphics/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/graphics/Font.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/graphics/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/states/GameOverState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/states/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/states/GameStateManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/states/MenuState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/states/PauseState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/states/PlayState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/TileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/TileMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/TileMapNorm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/TileMapObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/blocks/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/blocks/HoleBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/blocks/NormBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/tiles/blocks/ObjBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/util/AABB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/util/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/util/MouseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/util/TileCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game A/src/com/gevin/game/util/Vector2f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/resorces/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/resorces/audio/click.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/resorces/fonts/comic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/resorces/fonts/standart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/AbstractGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/GameContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/audio/SoundClip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/gfx/Font.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/gfx/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/gfx/ImageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/gfx/ImageTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/gfx/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/engine/gfx/LightRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/game/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/game/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameEngine/src/com/gevin/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameStuff/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameStuff/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameStuff/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameStuff/src/HealthBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameStuff/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyramidtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangles/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rectangles/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/Xonix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xonix/src/GameXonix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/src/main/java/TestDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/src/test/resources/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/DrawSketch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheGame/src/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TheGame/src/Bullet.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-853130164">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="248" />
+          <entry key="txt" value="44" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="248" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Pyramid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#837#846#0" expanded="true" />
+                <element signature="e#1604#1613#0" expanded="true" />
+                <element signature="e#2372#2381#0" expanded="true" />
+                <element signature="e#3079#3080#0" expanded="true" />
+                <element signature="e#3149#3150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/PyramidTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Pyramid.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pyramidtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pyramidtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pyramidtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pyramidtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pyramidtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pyramidtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pyramidtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pyramidtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pyramidtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pyramidtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548423090429" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pyramid" />
+      <module name="Pyramidtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pyramid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8982b7d2-253b-4ffd-96f1-fd6f1c37db58" name="Default Changelist" comment="" />
+      <created>1548420695101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548420695101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="DB Browser" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create the pyramid test task" />
+    <option name="LAST_COMMIT_MESSAGE" value="create the pyramid test task" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PyramidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#837#846#0" expanded="true" />
+            <element signature="e#1604#1613#0" expanded="true" />
+            <element signature="e#2372#2381#0" expanded="true" />
+            <element signature="e#3079#3080#0" expanded="true" />
+            <element signature="e#3149#3150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
