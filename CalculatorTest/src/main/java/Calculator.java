@@ -27,6 +27,7 @@ public class Calculator {
     }
 
     static double evaluate(String expr){
+        //TODO:
         expr = expr.replaceAll(" ","");
         boolean inBrackets = false;
         try {
@@ -72,6 +73,6 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        System.out.println(Calculator.evaluate("(73 - 23) * (8 + 12)"));
+        System.out.println(Calculator.evaluate("(25 - 5) * (5 + 5)"));
     }
 }
